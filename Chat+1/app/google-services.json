@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "894909115590",
+    "firebase_url": "https://chat-20a62.firebaseio.com",
+    "project_id": "chat-20a62",
+    "storage_bucket": "chat-20a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894909115590:android:edd54437f971fcf6",
+        "android_client_info": {
+          "package_name": "syaiful.learn.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894909115590-is4uvmq4vc7p9k0i5dihst4regulbahk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "syaiful.learn.chat",
+            "certificate_hash": "9dff77aa13da05970f7211072d064068d696e312"
+          }
+        },
+        {
+          "client_id": "894909115590-3uai1rin5co2th3dfuo8f367q8119n0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtNfVgQ7xSUOqqzglv5MYMkg61MLLACis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894909115590-3uai1rin5co2th3dfuo8f367q8119n0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
